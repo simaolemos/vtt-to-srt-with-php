@@ -2,4 +2,4 @@
 
 ## Usage
 
-> php subtitle.php Input-VttFileName Output-SrtFileName
+> php subtitle.php Input-VttFileName.vtt Output-SrtFileName.srt
